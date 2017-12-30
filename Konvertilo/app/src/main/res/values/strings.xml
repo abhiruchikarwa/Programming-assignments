@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Konvertilo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_length_con">length_con</string>
+    <string name="title_activity_mass_con">mass_con</string>
+    <string name="title_activity_temp_con">temp_con</string>
+    <string name="title_activity_cur_con">cur_con</string>
+    <string name="title_activity_sto_con">sto_con</string>
+    <string name="title_activity_vel_con">vel_con</string>
+    <string name="title_activity_vol_con">vol_con</string>
+</resources>
