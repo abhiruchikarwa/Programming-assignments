@@ -8,4 +8,4 @@ Additional info about Racket can be found [here](https://download.racket-lang.or
 
 2. Open DrRacket on your computer.
 
-3. You can run the program by doing Menu > Racket > Run
+3. You can run the program by doing Menu > Racket > Run squashgame.rkt
